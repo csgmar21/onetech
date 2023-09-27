@@ -1,0 +1,109 @@
+﻿One Tech (Team 6) Meeting #1
+	Date 9/22/2023
+Start Time 1:32 P
+End Time 2:10 P
+Location Online (Webex)
+	
+
+Meeting called by:
+	Adira Samaroo
+	Type of meeting:
+	Decision-making
+	Facilitator:
+	Marwan Youssef
+	Note taker:
+	Adira Samaroo
+	Timekeeper:
+	Adira Samaroo
+		
+
+	
+
+Attendees:
+	Adira Samaroo, Marwan Youssef
+	Please read:
+	N/A
+	Please bring:
+	N/A
+	Minutes
+Agenda item:
+	Choosing the topic
+	Presenter:
+	N/A
+	Discussion:
+Reading through the 8 topics presented to the group.
+a) How you think the work can add value to you and your team (What is in it for me)
+b) availability of different literature online
+c) Team's interest levels etc. 
+Conclusions:
+In order, choosing between (AS) 6,3,8,2. or (MY) 6,3,2,8.
+
+
+Action items
+	Person responsible
+	Deadline
+	* Picked topic 3
+	N/A
+	N/A
+	* Enter topic to team page under discussions
+	Adira Samaroo
+	9/22/2023
+	* 	
+
+	
+
+	
+
+Agenda item:
+	Creating the Github
+	Presenter:
+	N/A
+	Discussion:
+Creating the repo for the team project.
+Created by Marwan Youssef
+Conclusions:
+Need to add Professor to github.
+Action items
+	Person responsible
+	Deadline
+	* Add Professor to GitHub
+	Marwan Youssef
+	9/29/2023
+	* Create README.md
+	Adira Samaroo
+	9/29/2023
+	* 	
+
+	
+
+	
+
+Agenda item:
+	Research
+	Presenter:
+	N/A
+	Discussion:
+Start researching material related to the team’s topic
+Conclusions:
+Enter conclusions here.
+Action items
+	Person responsible
+	Deadline
+	* Find initial research articles for topic
+	All
+	9/29/2023
+	* 	
+
+	
+
+	* 	
+
+	
+
+	Other Information
+Observers:
+.N/A
+Resources:
+N/A.
+Special notes:
+N/A.
